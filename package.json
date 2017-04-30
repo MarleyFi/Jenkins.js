@@ -1,0 +1,22 @@
+{
+  "name": "jenkinsjs",
+  "version": "1.0.0",
+  "description": "This is a FFmpeg win64 static build by Kyle Schwarz.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "JenkinsJS"
+  },
+  "author": "MarleyFi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "ffmpeg": "^0.0.4",
+    "jquery": "^3.2.1",
+    "ytdl-core": "^0.12.1"
+  },
+  "devDependencies": {}
+}
