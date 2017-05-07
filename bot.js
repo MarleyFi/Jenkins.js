@@ -287,5 +287,3 @@ function defineVChannel(message) {
         return channel;
     }
 }
-
-client.login("MTk5Nzg0MDYxNTUwNDYwOTI5.C85qrA.wZ_At1y6vxF7EizF_69YcZQcqhg");
